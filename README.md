@@ -1,0 +1,1 @@
+[https://github.com/AhmedZatar/django-models/pull/1](https://github.com/AhmedZatar/django-models/pull/1)
